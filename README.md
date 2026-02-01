@@ -8,14 +8,14 @@ trading environment in order to analyze agent behavior, learning dynamics, and d
 
 The entire project is implemented and documented in a Jupyter Notebook.
 
-## Objectives
+## 🎯Objectives
 - Implement the Q-Learning algorithm from scratch
 - Model a trading environment using reinforcement learning concepts
 - Define states, actions, and reward functions
 - Train a learning agent through interaction with the environment
 - Analyze and visualize learning performance and results
 
-## Methodology
+## 🧪Methodology
 This project is based on reinforcement learning, where an agent learns an optimal policy by interacting
 with an environment and maximizing cumulative rewards.
 
@@ -26,7 +26,7 @@ Key elements include:
 - Q-table updated using the Bellman equation
 - Exploration vs exploitation strategy using an epsilon-greedy policy
 
-## Project Structure
+## 📁Project Structure
 q-learning-trading-lab/
 - notebooks/
   - Advanced_ML_Lab2.ipynb
@@ -34,14 +34,14 @@ q-learning-trading-lab/
 - .gitignore
 - README.md
 
-## Requirements
+## ⚙️Requirements
 - Python 3.9 or higher
 - Jupyter Notebook
 
 Install the required dependencies using:
 pip install -r requirements.txt
 
-## Running the Project
+## ⚙️Running the Project
 Start Jupyter Notebook by running:
 jupyter notebook
 
@@ -50,7 +50,7 @@ Advanced_ML_Lab2.ipynb
 
 Execute the cells sequentially to reproduce the experiments and results.
 
-## Experiments and Results
+## 🧪Experiments and Results
 The notebook includes:
 - Training of the Q-Learning agent
 - Visualization of cumulative rewards
@@ -64,7 +64,7 @@ The notebook includes:
 - Results depend on hyperparameter selection
 - This project is intended for academic and educational purposes only
 
-## Future Work
+## 🚀Future Work
 Possible improvements include:
 - Deep Q-Learning using neural networks
 - More realistic market simulations
